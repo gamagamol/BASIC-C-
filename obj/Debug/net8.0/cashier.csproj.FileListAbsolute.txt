@@ -1,0 +1,15 @@
+/Users/gamaariefsadya/Documents/project_latihan/basicC#/cashier/bin/Debug/net8.0/cashier
+/Users/gamaariefsadya/Documents/project_latihan/basicC#/cashier/bin/Debug/net8.0/cashier.deps.json
+/Users/gamaariefsadya/Documents/project_latihan/basicC#/cashier/bin/Debug/net8.0/cashier.runtimeconfig.json
+/Users/gamaariefsadya/Documents/project_latihan/basicC#/cashier/bin/Debug/net8.0/cashier.dll
+/Users/gamaariefsadya/Documents/project_latihan/basicC#/cashier/bin/Debug/net8.0/cashier.pdb
+/Users/gamaariefsadya/Documents/project_latihan/basicC#/cashier/obj/Debug/net8.0/cashier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamaariefsadya/Documents/project_latihan/basicC#/cashier/obj/Debug/net8.0/cashier.AssemblyInfoInputs.cache
+/Users/gamaariefsadya/Documents/project_latihan/basicC#/cashier/obj/Debug/net8.0/cashier.AssemblyInfo.cs
+/Users/gamaariefsadya/Documents/project_latihan/basicC#/cashier/obj/Debug/net8.0/cashier.csproj.CoreCompileInputs.cache
+/Users/gamaariefsadya/Documents/project_latihan/basicC#/cashier/obj/Debug/net8.0/cashier.sourcelink.json
+/Users/gamaariefsadya/Documents/project_latihan/basicC#/cashier/obj/Debug/net8.0/cashier.dll
+/Users/gamaariefsadya/Documents/project_latihan/basicC#/cashier/obj/Debug/net8.0/refint/cashier.dll
+/Users/gamaariefsadya/Documents/project_latihan/basicC#/cashier/obj/Debug/net8.0/cashier.pdb
+/Users/gamaariefsadya/Documents/project_latihan/basicC#/cashier/obj/Debug/net8.0/cashier.genruntimeconfig.cache
+/Users/gamaariefsadya/Documents/project_latihan/basicC#/cashier/obj/Debug/net8.0/ref/cashier.dll
